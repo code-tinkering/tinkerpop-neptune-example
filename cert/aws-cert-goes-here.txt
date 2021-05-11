@@ -1,0 +1,1 @@
+Download https://www.amazontrust.com/repository/SFSRootCAG2.pem and place it in this directory.
