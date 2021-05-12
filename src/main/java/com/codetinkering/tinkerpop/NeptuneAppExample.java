@@ -44,6 +44,6 @@ public class NeptuneAppExample implements CommandLineRunner {
     }
 
     public static void main(String[] args) {
-        SpringApplication.run(NeptuneConfigExample.class, args);
+        SpringApplication.run(NeptuneAppExample.class, args);
     }
 }
